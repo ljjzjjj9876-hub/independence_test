@@ -1,0 +1,14 @@
+# IDE
+.idea/
+.vscode/
+
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+
+# 数据集
+data/
+*.tar.gz
